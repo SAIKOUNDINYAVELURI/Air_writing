@@ -68,7 +68,6 @@ Air_writing/
    ```
 
 ## 📊 Results
-- Achieved **XX% accuracy** on test data.
 - Successfully recognizes characters written in air with hand gestures.
 
 ## 🔮 Future Improvements
